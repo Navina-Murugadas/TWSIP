@@ -1,5 +1,5 @@
 # MOVIE RECOMMENDER SYSTEM
-In the era of digital streaming platforms, movie recommender systems play a vital role in enhancing user experience and engagement. This data science project focuses on building a movie recommender system using cosine similarity, a common technique in natural language processing and recommendation systems. The goal is to provide users with personalized movie recommendations based on their viewing history and preferences.
+In the era of digital streaming platforms, Movie Recommender Systems play a vital role in enhancing user experience and engagement. This data science project focuses on building a Movie Recommender System using cosine similarity, a common technique in natural language processing and recommendation systems. The goal is to provide users with personalized movie recommendations based on their viewing history and preferences.
 This project aims to leverage cosine similarity and "CONTENT BASED" techniques to create a movie recommender system that helps users discover movies tailored to their tastes. By providing personalized recommendations, the project seeks to improve user retention and satisfaction, ultimately benefiting both users and streaming platforms.
 
 # Technique used:
