@@ -8,13 +8,13 @@ Over the past month, I've had the privilege of working on several projects that 
 In this GitHub repository, you'll find detailed documentation, code, and other resources related to these projects. Here's a brief overview of the main components:
 
 ### Task 1: DETECTION OF ROAD LANES
-
+https://github.com/Navina-Murugadas/TWSIP/tree/main/Detection_of_RoadLaneLine
 
 ### Task 2: MOVIE RECOMMENDER SYSTEM
-
+https://github.com/Navina-Murugadas/TWSIP/tree/main/Movie_Recommender-System
 
 ### Task 3: FAKE NEWS DETECTOR
-
+https://github.com/Navina-Murugadas/TWSIP/tree/main/Fake_News_Detection
 
 ## Key Achievements
 During my internship, I achieved several milestones, including:
