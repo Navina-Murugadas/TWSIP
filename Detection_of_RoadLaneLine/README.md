@@ -31,3 +31,12 @@ The project aims to develop a system that can automatically detect and highlight
 8. VISUALIZATION: Draw the detected lane lines on the original image or video frames.
 
 # Output:
+![Road1](https://github.com/Navina-Murugadas/TWSIP/assets/72821323/b2da4d70-66c1-4379-ad8c-fef04460e3c6)
+![Road2](https://github.com/Navina-Murugadas/TWSIP/assets/72821323/484733b4-6000-40b2-9745-45a545b84437)
+![Road3](https://github.com/Navina-Murugadas/TWSIP/assets/72821323/07adcbfd-5812-4e55-8cdd-69c3409ffc60)
+![Road4](https://github.com/Navina-Murugadas/TWSIP/assets/72821323/bcbd9c56-ace9-4b2c-bc7a-7647442e8f0e)
+![Road5](https://github.com/Navina-Murugadas/TWSIP/assets/72821323/faeb3cc0-f030-4aed-9220-f6ce8947e811)
+![Road6](https://github.com/Navina-Murugadas/TWSIP/assets/72821323/01aea8de-5cf8-444e-81d0-dcf1d9cc95c2)
+![Road7](https://github.com/Navina-Murugadas/TWSIP/assets/72821323/966fb03f-d877-4050-8cbf-5c3324082610)
+
+
