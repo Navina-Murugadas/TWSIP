@@ -1,5 +1,5 @@
 # DETECTION OF ROAD LANE LINES
-Road lane line detection using OpenCV is a fundamental component of many autonomous vehicle systems. This project demonstrates the practical application of computer vision techniques in enhancing road safety and improving the driving experience by assisting drivers in staying within their lanes. It also serves as a foundation for more advanced projects in the field of autonomous driving and ADAS.
+Road lane line detection using OpenCV (Open Source Computer Vision) is a fundamental component of many autonomous vehicle systems. This project demonstrates the practical application of computer vision techniques in enhancing road safety and improving the driving experience by assisting drivers in staying within their lanes. It also serves as a foundation for more advanced projects in the field of autonomous driving and ADAS.
 The project aims to develop a system that can automatically detect and highlight road lane lines in images or videos using computer vision techniques. This system can be a crucial component in autonomous vehicles and lane-keeping assistance systems.
 
 # Tools/Technologies used:
